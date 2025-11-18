@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: b62a4b4205dc71546bdce5e185ebea8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1078966472705588008
+    second: Firey Spritesheet_0
+  - first:
+      213: 4055690411689345021
+    second: Firey Spritesheet_1
+  - first:
+      213: 632233342855668241
+    second: Firey Spritesheet_2
+  - first:
+      213: 8221499732556034368
+    second: Firey Spritesheet_3
+  - first:
+      213: -6572085934036514511
+    second: Firey Spritesheet_4
+  - first:
+      213: -8503986525940703757
+    second: Firey Spritesheet_5
+  - first:
+      213: 3902833049549940034
+    second: Firey Spritesheet_6
+  - first:
+      213: -2698793484984261577
+    second: Firey Spritesheet_7
+  - first:
+      213: -5695617063309619100
+    second: Firey Spritesheet_8
+  - first:
+      213: 4159795115070344563
+    second: Firey Spritesheet_9
+  - first:
+      213: -2836508946721821654
+    second: Firey Spritesheet_10
+  - first:
+      213: 5512077979007598864
+    second: Firey Spritesheet_11
+  - first:
+      213: 1514439071025485
+    second: Firey Spritesheet_12
+  - first:
+      213: -8506732494987079917
+    second: Firey Spritesheet_13
+  - first:
+      213: 5879073573169846853
+    second: Firey Spritesheet_14
+  - first:
+      213: 516653622015412165
+    second: Firey Spritesheet_15
+  - first:
+      213: 2635139683959381393
+    second: Firey Spritesheet_16
+  - first:
+      213: 2356418289304943483
+    second: Firey Spritesheet_17
+  - first:
+      213: -6361810091021729721
+    second: Firey Spritesheet_18
+  - first:
+      213: 4712879584335021665
+    second: Firey Spritesheet_19
+  - first:
+      213: 8573870833063011805
+    second: Firey Spritesheet_20
+  - first:
+      213: -1679266489604641944
+    second: Firey Spritesheet_21
+  - first:
+      213: -8484910067744207208
+    second: Firey Spritesheet_22
+  - first:
+      213: 1009874302918529882
+    second: Firey Spritesheet_23
+  - first:
+      213: -8577165036041985417
+    second: Firey Spritesheet_24
+  - first:
+      213: 2941334436955960993
+    second: Firey Spritesheet_25
+  - first:
+      213: 7266443487781196714
+    second: Firey Spritesheet_26
+  - first:
+      213: -8189743315745654878
+    second: Firey Spritesheet_27
+  - first:
+      213: -7582539453870867563
+    second: Firey Spritesheet_28
+  - first:
+      213: 3849240331237340933
+    second: Firey Spritesheet_29
+  - first:
+      213: -4020576242905744084
+    second: Firey Spritesheet_30
+  - first:
+      213: -6443032090106565354
+    second: Firey Spritesheet_31
+  - first:
+      213: -5934314607645579330
+    second: Firey Spritesheet_32
+  - first:
+      213: 6687414300897968347
+    second: Firey Spritesheet_33
+  - first:
+      213: -1920346932251559156
+    second: Firey Spritesheet_34
+  - first:
+      213: -2581056300123742505
+    second: Firey Spritesheet_35
+  - first:
+      213: -4119239589021653926
+    second: Firey Spritesheet_36
+  - first:
+      213: 4631251083558287473
+    second: Firey Spritesheet_37
+  - first:
+      213: 2681396014983209300
+    second: Firey Spritesheet_38
+  - first:
+      213: -1670098296271748540
+    second: Firey Spritesheet_39
+  - first:
+      213: -1656090211914937388
+    second: Firey Spritesheet_40
+  - first:
+      213: -5612236793353208007
+    second: Firey Spritesheet_41
+  - first:
+      213: -1001712587738229353
+    second: Firey Spritesheet_42
+  - first:
+      213: 8910106028043299416
+    second: Firey Spritesheet_43
+  - first:
+      213: -7933273242904731666
+    second: Firey Spritesheet_44
+  - first:
+      213: -8583345511786094989
+    second: Firey Spritesheet_45
+  - first:
+      213: -6951283753527599321
+    second: Firey Spritesheet_46
+  - first:
+      213: -7077311857498293421
+    second: Firey Spritesheet_47
+  - first:
+      213: 4719372944870306763
+    second: Firey Spritesheet_48
+  - first:
+      213: 4389704481652431889
+    second: Firey Spritesheet_49
+  - first:
+      213: -6750757887952929306
+    second: Firey Spritesheet_50
+  - first:
+      213: 7757775057256187422
+    second: Firey Spritesheet_51
+  - first:
+      213: -3845002102747682479
+    second: Firey Spritesheet_52
+  - first:
+      213: 8564787431098896247
+    second: Firey Spritesheet_53
+  - first:
+      213: -5343912470013590397
+    second: Firey Spritesheet_54
+  - first:
+      213: -7104560998861980186
+    second: Firey Spritesheet_55
+  - first:
+      213: -3172661278462183963
+    second: Firey Spritesheet_56
+  - first:
+      213: -8189967567989739836
+    second: Firey Spritesheet_57
+  - first:
+      213: -5582590755779193734
+    second: Firey Spritesheet_58
+  - first:
+      213: -8652788097495180102
+    second: Firey Spritesheet_59
+  - first:
+      213: -2993805732097844098
+    second: Firey Spritesheet_60
+  - first:
+      213: 9080116160415210945
+    second: Firey Spritesheet_61
+  - first:
+      213: -3853800718205544814
+    second: Firey Spritesheet_62
+  - first:
+      213: -8163859135077195254
+    second: Firey Spritesheet_63
+  - first:
+      213: 5401557110474490318
+    second: Firey Spritesheet_64
+  - first:
+      213: 8637195423201037483
+    second: Firey Spritesheet_65
+  - first:
+      213: -7965504995261330804
+    second: Firey Spritesheet_66
+  - first:
+      213: -7667884094524336152
+    second: Firey Spritesheet_67
+  - first:
+      213: -7769590954843159327
+    second: Firey Spritesheet_68
+  - first:
+      213: -3708863358681082200
+    second: Firey Spritesheet_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firey Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7200
+        width: 849
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b3c225a4249fe00800000000000000
+      internalID: 1078966472705588008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 7200
+        width: 850
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff73b301f4b84830800000000000000
+      internalID: 4055690411689345021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 7200
+        width: 850
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e11820e426c800800000000000000
+      internalID: 632233342855668241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 7200
+        width: 846
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b8f78272a81270800000000000000
+      internalID: 8221499732556034368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 7200
+        width: 847
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398964d9a24bc4a0800000000000000
+      internalID: -6572085934036514511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 7200
+        width: 846
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd989a8f45cbf980800000000000000
+      internalID: -8503986525940703757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 7200
+        width: 850
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24524100bf5a92630800000000000000
+      internalID: 3902833049549940034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7227
+        y: 7200
+        width: 850
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ef5dcf95fb8ad0800000000000000
+      internalID: -2698793484984261577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 8247
+        y: 7200
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d6c4257a15f0b0800000000000000
+      internalID: -5695617063309619100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6174
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d4c2c1e9f8ab930800000000000000
+      internalID: 4159795115070344563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 6174
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cad643422b2a8d0800000000000000
+      internalID: -2836508946721821654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 6174
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0114009b7b5de7c40800000000000000
+      internalID: 5512077979007598864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 6174
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ccd2df51650000800000000000000
+      internalID: 1514439071025485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 6172
+        width: 849
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc50dcdd302f980800000000000000
+      internalID: -8506732494987079917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 6172
+        width: 849
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54adc21244aa69150800000000000000
+      internalID: 5879073573169846853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 6172
+        width: 849
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7c52c5bb58b2700800000000000000
+      internalID: 516653622015412165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 6166
+        width: 849
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1febb495e19420800000000000000
+      internalID: 2635139683959381393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 8247
+        y: 6174
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b314403fda3b020800000000000000
+      internalID: 2356418289304943483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5158
+        width: 849
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408724bd6f46b7a0800000000000000
+      internalID: -6361810091021729721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 5149
+        width: 849
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ca751303876140800000000000000
+      internalID: 4712879584335021665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 5148
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5adcaa8128cf670800000000000000
+      internalID: 8573870833063011805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 5142
+        width: 849
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86be5eb560c02b8e0800000000000000
+      internalID: -1679266489604641944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 5140
+        width: 849
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e88f49f3b8f3a80800000000000000
+      internalID: -8484910067744207208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 5148
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531145f35bc30e00800000000000000
+      internalID: 1009874302918529882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 5148
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77221dee7d9c7f880800000000000000
+      internalID: -8577165036041985417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 5148
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a632682618b1d820800000000000000
+      internalID: 2941334436955960993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4111
+        width: 900
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa316a55ad797d460800000000000000
+      internalID: 7266443487781196714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4110
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b95f68df285e80800000000000000
+      internalID: -8189743315745654878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 4110
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b74ac6a8865c690800000000000000
+      internalID: -7582539453870867563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 4111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073286efaf3b6530800000000000000
+      internalID: 3849240331237340933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 4110
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7a31853b0438c0800000000000000
+      internalID: -4020576242905744084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 4111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d61c06370c596a0800000000000000
+      internalID: -6443032090106565354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 4110
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7afd14e4415ada0800000000000000
+      internalID: -5934314607645579330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 4109
+        width: 900
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd004ee00e77ecc50800000000000000
+      internalID: 6687414300897968347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 4104
+        width: 900
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b72a9b3ae8955e0800000000000000
+      internalID: -1920346932251559156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 4110
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de17d558fe3e2cd0800000000000000
+      internalID: -2581056300123742505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3084
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5463af1b6585d6c0800000000000000
+      internalID: -4119239589021653926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3085
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1787225b252854040800000000000000
+      internalID: 4631251083558287473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 3084
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451e83f087b363520800000000000000
+      internalID: 2681396014983209300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3085
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ccb6b27e92d8e0800000000000000
+      internalID: -1670098296271748540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3084
+        width: 900
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db0fc20ab26409e0800000000000000
+      internalID: -1656090211914937388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3083
+        width: 900
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffdc01f545d12b0800000000000000
+      internalID: -5612236793353208007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 3096
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79553d075b33912f0800000000000000
+      internalID: -1001712587738229353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 3096
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a6698893e07ab70800000000000000
+      internalID: 8910106028043299416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 3096
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5d82940a57e190800000000000000
+      internalID: -7933273242904731666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 3096
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37edb89cbb4d1e880800000000000000
+      internalID: -8583345511786094989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2070
+        width: 860
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f1b027144188f90800000000000000
+      internalID: -6951283753527599321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2070
+        width: 860
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7721ec5658cd90800000000000000
+      internalID: -7077311857498293421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2053
+        width: 860
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3759560b49e7140800000000000000
+      internalID: 4719372944870306763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 2070
+        width: 866
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c55d9e7fc5bec30800000000000000
+      internalID: 4389704481652431889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2060
+        width: 866
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed36ebc77d7052a0800000000000000
+      internalID: -6750757887952929306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 5162
+        y: 2286
+        width: 888
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160427ef4729ab60800000000000000
+      internalID: 7757775057256187422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 2282
+        width: 994
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159281195fec3aac0800000000000000
+      internalID: -3845002102747682479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 7213
+        y: 2306
+        width: 995
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f41675acc3cd670800000000000000
+      internalID: 8564787431098896247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1263
+        width: 982
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844f0afbeb96d5b0800000000000000
+      internalID: -5343912470013590397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1161
+        width: 982
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edbcb1c967876d90800000000000000
+      internalID: -7104560998861980186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1026
+        width: 982
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5ff90706178f3d0800000000000000
+      internalID: -3172661278462183963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1044
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce6004a3e3675e80800000000000000
+      internalID: -8189967567989739836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1044
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d6631947a682b0800000000000000
+      internalID: -5582590755779193734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 1044
+        width: 849
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc521cd11f1be780800000000000000
+      internalID: -8652788097495180102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 1027
+        width: 978
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c97cb6c8dd376d0800000000000000
+      internalID: -2993805732097844098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 1026
+        width: 978
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd15d41a8d030e70800000000000000
+      internalID: 9080116160415210945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 978
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29696344aac848ac0800000000000000
+      internalID: -3853800718205544814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 978
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026561ee5524be80800000000000000
+      internalID: -8163859135077195254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1
+        width: 978
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec141d3c29f26fa40800000000000000
+      internalID: 5401557110474490318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 0
+        width: 978
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac078fb97b7dd770800000000000000
+      internalID: 8637195423201037483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1
+        width: 978
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a49dce867d47190800000000000000
+      internalID: -7965504995261330804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 0
+        width: 978
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7520fca04369590800000000000000
+      internalID: -7667884094524336152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 1
+        width: 978
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e44c7e013edc2490800000000000000
+      internalID: -7769590954843159327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firey Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 0
+        width: 978
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61a59fc68778cc0800000000000000
+      internalID: -3708863358681082200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f08c7a324a391543890736b80b4ea58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Firey Spritesheet_0: 1078966472705588008
+      Firey Spritesheet_1: 4055690411689345021
+      Firey Spritesheet_10: -2836508946721821654
+      Firey Spritesheet_11: 5512077979007598864
+      Firey Spritesheet_12: 1514439071025485
+      Firey Spritesheet_13: -8506732494987079917
+      Firey Spritesheet_14: 5879073573169846853
+      Firey Spritesheet_15: 516653622015412165
+      Firey Spritesheet_16: 2635139683959381393
+      Firey Spritesheet_17: 2356418289304943483
+      Firey Spritesheet_18: -6361810091021729721
+      Firey Spritesheet_19: 4712879584335021665
+      Firey Spritesheet_2: 632233342855668241
+      Firey Spritesheet_20: 8573870833063011805
+      Firey Spritesheet_21: -1679266489604641944
+      Firey Spritesheet_22: -8484910067744207208
+      Firey Spritesheet_23: 1009874302918529882
+      Firey Spritesheet_24: -8577165036041985417
+      Firey Spritesheet_25: 2941334436955960993
+      Firey Spritesheet_26: 7266443487781196714
+      Firey Spritesheet_27: -8189743315745654878
+      Firey Spritesheet_28: -7582539453870867563
+      Firey Spritesheet_29: 3849240331237340933
+      Firey Spritesheet_3: 8221499732556034368
+      Firey Spritesheet_30: -4020576242905744084
+      Firey Spritesheet_31: -6443032090106565354
+      Firey Spritesheet_32: -5934314607645579330
+      Firey Spritesheet_33: 6687414300897968347
+      Firey Spritesheet_34: -1920346932251559156
+      Firey Spritesheet_35: -2581056300123742505
+      Firey Spritesheet_36: -4119239589021653926
+      Firey Spritesheet_37: 4631251083558287473
+      Firey Spritesheet_38: 2681396014983209300
+      Firey Spritesheet_39: -1670098296271748540
+      Firey Spritesheet_4: -6572085934036514511
+      Firey Spritesheet_40: -1656090211914937388
+      Firey Spritesheet_41: -5612236793353208007
+      Firey Spritesheet_42: -1001712587738229353
+      Firey Spritesheet_43: 8910106028043299416
+      Firey Spritesheet_44: -7933273242904731666
+      Firey Spritesheet_45: -8583345511786094989
+      Firey Spritesheet_46: -6951283753527599321
+      Firey Spritesheet_47: -7077311857498293421
+      Firey Spritesheet_48: 4719372944870306763
+      Firey Spritesheet_49: 4389704481652431889
+      Firey Spritesheet_5: -8503986525940703757
+      Firey Spritesheet_50: -6750757887952929306
+      Firey Spritesheet_51: 7757775057256187422
+      Firey Spritesheet_52: -3845002102747682479
+      Firey Spritesheet_53: 8564787431098896247
+      Firey Spritesheet_54: -5343912470013590397
+      Firey Spritesheet_55: -7104560998861980186
+      Firey Spritesheet_56: -3172661278462183963
+      Firey Spritesheet_57: -8189967567989739836
+      Firey Spritesheet_58: -5582590755779193734
+      Firey Spritesheet_59: -8652788097495180102
+      Firey Spritesheet_6: 3902833049549940034
+      Firey Spritesheet_60: -2993805732097844098
+      Firey Spritesheet_61: 9080116160415210945
+      Firey Spritesheet_62: -3853800718205544814
+      Firey Spritesheet_63: -8163859135077195254
+      Firey Spritesheet_64: 5401557110474490318
+      Firey Spritesheet_65: 8637195423201037483
+      Firey Spritesheet_66: -7965504995261330804
+      Firey Spritesheet_67: -7667884094524336152
+      Firey Spritesheet_68: -7769590954843159327
+      Firey Spritesheet_69: -3708863358681082200
+      Firey Spritesheet_7: -2698793484984261577
+      Firey Spritesheet_8: -5695617063309619100
+      Firey Spritesheet_9: 4159795115070344563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
