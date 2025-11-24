@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 
 public class CHR_Firey_PLY : MonoBehaviour
 {
-    public float force = 3;
+    public float force = 50;
     public Rigidbody2D rb;
     public int playerLayer;
     public int wallLayer;
