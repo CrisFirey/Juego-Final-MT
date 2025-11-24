@@ -1,47 +1,54 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+
+
+
+
 
 public class CHR_Firey_PLY : MonoBehaviour
 {
-    public float force = 100;
+    public float force = 3;
     public Rigidbody2D rb;
+    public int playerLayer;
+    public int wallLayer;
     public int layer = 3;
 
-    void start()
+    public bool left = true;
+    void Update()
     {
-        if (Input.GetKeyDown((KeyCode.D)))
+        if (Input.GetKeyDown(KeyCode.D))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.right * force);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.right * force, ForceMode2D.Impulse);
         }
-        if (Input.GetKeyDown((KeyCode.S)))
+        if (Input.GetKeyDown(KeyCode.A))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.down * force);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left * force, ForceMode2D.Impulse);
         }
-        if (Input.GetKeyDown((KeyCode.A)))
+        if (Input.GetKeyDown(KeyCode.S))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.left * force);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.down * force, ForceMode2D.Impulse);
         }
-        if (Input.GetKeyDown((KeyCode.W)))
+        if (Input.GetKeyDown(KeyCode.W))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.up);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.up);
         }
-        if (Input.GetKeyDown((KeyCode.Space)))
+        if (Input.GetKeyDown(KeyCode.O))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.jump * force);
+            Destroy(gameObject);
         }
-        if (Input.GetKeyDown((KeyCode.Shift + A)))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.left - 50);
-        }
-        if (Input.GetKeyDown((KeyCode.Shift + D)))
-        {
-            gameObject.Component<Rigidbody2D>().AddForce(Vector2.right - 50);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.up * force, ForceMode2D.Impulse);
         }
     }
-
-
-    private void OnCollisionEnter2D(Collision2D collision);
+    void Start()
     {
-        if (collision.gameObject.layer ==layer)
-            Destroy(collision.gameObject)
+        gameObject.TryGetComponent(out rb);
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.layer == layer)
+            Destroy(collision.gameObject);
     }
 }
+
