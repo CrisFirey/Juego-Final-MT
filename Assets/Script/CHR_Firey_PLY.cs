@@ -40,6 +40,10 @@ public class CHR_Firey_PLY : MonoBehaviour
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.up * force, ForceMode2D.Impulse);
         }
+        if (Input.GetKeyDown(KeyCode.Enter))
+        {
+            ;
+        }
     }
     void Start()
     {
