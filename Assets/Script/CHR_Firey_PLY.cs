@@ -7,11 +7,13 @@ using UnityEngine.InputSystem;
 
 public class CHR_Firey_PLY : MonoBehaviour
 {
-    public float force = 50;
+    public float force = 200;
     public Rigidbody2D rb;
     public int playerLayer;
     public int wallLayer;
     public int layer = 3;
+
+    public GameObject menu;
 
     public bool left = true;
     void Update()
@@ -39,6 +41,10 @@ public class CHR_Firey_PLY : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.up * force, ForceMode2D.Impulse);
+        }
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            menu.SetActive(!menu.activeInHierarchy);
         }
     }
     void Start()
