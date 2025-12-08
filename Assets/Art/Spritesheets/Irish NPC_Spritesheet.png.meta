@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 11ba3673d9fec814c8c65cb65cf051ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6654288372019330081
+    second: Irish NPC_Spritesheet_0
+  - first:
+      213: 5007967741616512113
+    second: Irish NPC_Spritesheet_1
+  - first:
+      213: 7190213025246672334
+    second: Irish NPC_Spritesheet_2
+  - first:
+      213: -7818066751840628726
+    second: Irish NPC_Spritesheet_3
+  - first:
+      213: 6117799652305177512
+    second: Irish NPC_Spritesheet_4
+  - first:
+      213: 3200559982801616664
+    second: Irish NPC_Spritesheet_5
+  - first:
+      213: 8745349409609707889
+    second: Irish NPC_Spritesheet_6
+  - first:
+      213: 1124611428818588977
+    second: Irish NPC_Spritesheet_7
+  - first:
+      213: 2396691015875647764
+    second: Irish NPC_Spritesheet_8
+  - first:
+      213: 2784528082785765026
+    second: Irish NPC_Spritesheet_9
+  - first:
+      213: -5377186613355548077
+    second: Irish NPC_Spritesheet_10
+  - first:
+      213: -4898741559315449440
+    second: Irish NPC_Spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2092
+        width: 632
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd386c84bf737a3a0800000000000000
+      internalID: -6654288372019330081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2092
+        width: 632
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cdaada020ef7540800000000000000
+      internalID: 5007967741616512113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2092
+        width: 632
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f63da6a4c8c360800000000000000
+      internalID: 7190213025246672334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2090
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a005f3a06b5a08390800000000000000
+      internalID: -7818066751840628726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1066
+        width: 632
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab88aace5ac6e450800000000000000
+      internalID: 6117799652305177512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1066
+        width: 632
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7839d85caa6c20800000000000000
+      internalID: 3200559982801616664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1064
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171757404f8bd5970800000000000000
+      internalID: 8745349409609707889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1064
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359315d22c6b9f00800000000000000
+      internalID: 1124611428818588977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 38
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41953add7c1c24120800000000000000
+      internalID: 2396691015875647764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 38
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68b89c981a4a620800000000000000
+      internalID: 2784528082785765026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 38
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f4f3c3456065b0800000000000000
+      internalID: -5377186613355548077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irish NPC_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 38
+        width: 632
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a93f86a18c240cb0800000000000000
+      internalID: -4898741559315449440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Irish NPC_Spritesheet_0: -6654288372019330081
+      Irish NPC_Spritesheet_1: 5007967741616512113
+      Irish NPC_Spritesheet_10: -5377186613355548077
+      Irish NPC_Spritesheet_11: -4898741559315449440
+      Irish NPC_Spritesheet_2: 7190213025246672334
+      Irish NPC_Spritesheet_3: -7818066751840628726
+      Irish NPC_Spritesheet_4: 6117799652305177512
+      Irish NPC_Spritesheet_5: 3200559982801616664
+      Irish NPC_Spritesheet_6: 8745349409609707889
+      Irish NPC_Spritesheet_7: 1124611428818588977
+      Irish NPC_Spritesheet_8: 2396691015875647764
+      Irish NPC_Spritesheet_9: 2784528082785765026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
