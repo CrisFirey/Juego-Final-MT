@@ -581,7 +581,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -231.3, y: -32}
+  m_AnchoredPosition: {x: -222, y: -66.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &280977724
@@ -1983,6 +1983,7 @@ GameObject:
   - component: {fileID: 1139939685}
   - component: {fileID: 1139939689}
   - component: {fileID: 1139939688}
+  - component: {fileID: 1139939690}
   m_Layer: 6
   m_Name: Nethr
   m_TagString: Untagged
@@ -2151,6 +2152,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1139939690
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1139939683}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f885cebc4fbaed6478d510253c519c5c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1145015698
 GameObject:
   m_ObjectHideFlags: 0
@@ -2164,6 +2187,7 @@ GameObject:
   - component: {fileID: 1145015700}
   - component: {fileID: 1145015704}
   - component: {fileID: 1145015703}
+  - component: {fileID: 1145015705}
   m_Layer: 6
   m_Name: Cole
   m_TagString: Untagged
@@ -2265,7 +2289,7 @@ Transform:
   m_GameObject: {fileID: 1145015698}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -41.99, y: 38.04, z: 0}
+  m_LocalPosition: {x: -40.8, y: 38.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2309,7 +2333,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.56, y: 3.86}
+    oldSize: {x: 3.56, y: 3.84}
     newSize: {x: 7.12, y: 7.72}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2332,6 +2356,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1145015705
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145015698}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0da671f26b6c79e41b4cc5997ffd4aac, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1146731749
 GameObject:
   m_ObjectHideFlags: 0
@@ -2345,6 +2391,7 @@ GameObject:
   - component: {fileID: 1146731750}
   - component: {fileID: 1146731755}
   - component: {fileID: 1146731754}
+  - component: {fileID: 1146731756}
   m_Layer: 6
   m_Name: Khun
   m_TagString: Untagged
@@ -2513,6 +2560,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1146731756
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146731749}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0a0b71c249545524597486d118af7d66, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1292414530
 GameObject:
   m_ObjectHideFlags: 0
@@ -2526,6 +2595,7 @@ GameObject:
   - component: {fileID: 1292414532}
   - component: {fileID: 1292414536}
   - component: {fileID: 1292414535}
+  - component: {fileID: 1292414537}
   m_Layer: 6
   m_Name: G4J
   m_TagString: Untagged
@@ -2694,6 +2764,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1292414537
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1292414530}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f88ce497ad74e2949a56749c640fd354, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1384117164
 GameObject:
   m_ObjectHideFlags: 0
@@ -7131,6 +7223,7 @@ GameObject:
   - component: {fileID: 1707761500}
   - component: {fileID: 1707761505}
   - component: {fileID: 1707761504}
+  - component: {fileID: 1707761506}
   m_Layer: 6
   m_Name: Adventures
   m_TagString: Untagged
@@ -7232,7 +7325,7 @@ Transform:
   m_GameObject: {fileID: 1707761499}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -21.83, y: -3.94, z: 0}
+  m_LocalPosition: {x: -22.04, y: -3.62, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7299,6 +7392,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1707761506
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707761499}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 913b35d26e16e0d45b7783f59a674292, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1739923917
 GameObject:
   m_ObjectHideFlags: 0
@@ -7508,6 +7623,7 @@ GameObject:
   - component: {fileID: 1871575605}
   - component: {fileID: 1871575609}
   - component: {fileID: 1871575608}
+  - component: {fileID: 1871575610}
   m_Layer: 6
   m_Name: Bridgit
   m_TagString: Untagged
@@ -7676,6 +7792,28 @@ MonoBehaviour:
   positions: []
   speed: 3
   playerLayer: 3
+--- !u!95 &1871575610
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871575603}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 68a694f2a612e274b99b1944c1db4e82, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1929031265
 GameObject:
   m_ObjectHideFlags: 0
