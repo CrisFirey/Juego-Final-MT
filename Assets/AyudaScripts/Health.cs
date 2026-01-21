@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent (typeof(Collider))]
-public class Health : MonoBehaviour
+public class Health: MonoBehaviour
 {
     public int maxHealth = 100;
     private int currentHealth;
