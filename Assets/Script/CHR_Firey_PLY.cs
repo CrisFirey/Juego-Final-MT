@@ -15,6 +15,7 @@ public class CHR_Firey_PLY : MonoBehaviour
     public int layer = 3;
 
     public GameObject menu;
+    float dir = 0;
 
     public bool left = true;
     void Update()
@@ -22,11 +23,13 @@ public class CHR_Firey_PLY : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.right * force, ForceMode2D.Force);
-            Debug.Log("D");
+            dir += 1;
         }
         if (Input.GetKey(KeyCode.A))
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.left * force, ForceMode2D.Force);
+
+            dir -= 1;
         }
         if (Input.GetKey(KeyCode.S))
         {
@@ -48,6 +51,9 @@ public class CHR_Firey_PLY : MonoBehaviour
         {
             menu.SetActive(!menu.activeInHierarchy);
         }
+        dir = Mathf.Clamp(dir,-1,1);
+        gameObject.GetComponent<SpriteRenderer>().flipX = dir < 0;
+        gameObject.GetComponent<Animator>().SetBool("IsWalking", Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D));
     }
     void Start()
     {
