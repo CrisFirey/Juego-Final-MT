@@ -24,10 +24,10 @@ public class Enemy : MonoBehaviour
             positions[1] = Instantiate(new GameObject(), transform.position, Quaternion.identity).transform;
         }
 
-        if (objective = positions[1])
-        {
 
-        }
+
+
+
         objective = positions[index].position;
         trueSpeed = speed / 1000;
     }
