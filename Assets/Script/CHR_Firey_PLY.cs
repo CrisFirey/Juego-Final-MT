@@ -33,7 +33,7 @@ public class CHR_Firey_PLY : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.S))
         {
-            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.down * force, ForceMode2D.Force);
+            gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.down);
         }
         if (Input.GetKey(KeyCode.W))
         {
